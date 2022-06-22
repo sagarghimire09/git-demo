@@ -12,3 +12,5 @@ changed by branch-1
 
 changed by master branch
 changed by branch-2
+changed by branch-2
+changed by branch-2
